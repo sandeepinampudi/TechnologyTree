@@ -1,0 +1,4295 @@
+[
+  {
+    "technology": "Graphene oxide",
+    "current_rank": 454,
+    "ipc_codes": [
+      {
+        "ipc_code": "C01B",
+        "percentage": 20.73,
+        "patent_count": 4856
+      },
+      {
+        "ipc_code": "H01M",
+        "percentage": 16.57,
+        "patent_count": 3882
+      },
+      {
+        "ipc_code": "B01J",
+        "percentage": 10.61,
+        "patent_count": 2486
+      },
+      {
+        "ipc_code": "H01L",
+        "percentage": 10.59,
+        "patent_count": 2480
+      },
+      {
+        "ipc_code": "C08K",
+        "percentage": 10.36,
+        "patent_count": 2427
+      },
+      {
+        "ipc_code": "B82Y",
+        "percentage": 8.77,
+        "patent_count": 2054
+      },
+      {
+        "ipc_code": "C08L",
+        "percentage": 8.38,
+        "patent_count": 1963
+      },
+      {
+        "ipc_code": "H01G",
+        "percentage": 6.54,
+        "patent_count": 1531
+      },
+      {
+        "ipc_code": "G01N",
+        "percentage": 6.07,
+        "patent_count": 1423
+      },
+      {
+        "ipc_code": "C02F",
+        "percentage": 5.01,
+        "patent_count": 1173
+      },
+      {
+        "ipc_code": "B01D",
+        "percentage": 4.98,
+        "patent_count": 1166
+      },
+      {
+        "ipc_code": "C08J",
+        "percentage": 4.75,
+        "patent_count": 1113
+      },
+      {
+        "ipc_code": "H01B",
+        "percentage": 4.26,
+        "patent_count": 997
+      },
+      {
+        "ipc_code": "C09D",
+        "percentage": 4.21,
+        "patent_count": 986
+      },
+      {
+        "ipc_code": "C09K",
+        "percentage": 4.04,
+        "patent_count": 947
+      },
+      {
+        "ipc_code": "C08G",
+        "percentage": 3.79,
+        "patent_count": 889
+      },
+      {
+        "ipc_code": "B32B",
+        "percentage": 2.62,
+        "patent_count": 613
+      },
+      {
+        "ipc_code": "C04B",
+        "percentage": 2.47,
+        "patent_count": 578
+      },
+      {
+        "ipc_code": "A61K",
+        "percentage": 2.42,
+        "patent_count": 568
+      },
+      {
+        "ipc_code": "C01G",
+        "percentage": 1.93,
+        "patent_count": 453
+      }
+    ],
+    "total_patents": 23427,
+    "patents_by_year": [
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "1998",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "1999",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2000",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2001",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2002",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 2,
+        "year": "2003",
+        "applied": 2
+      },
+      {
+        "granted": 1,
+        "published": 1,
+        "year": "2004",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2005",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2006",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 3,
+        "year": "2007",
+        "applied": 3
+      },
+      {
+        "granted": 0,
+        "published": 4,
+        "year": "2008",
+        "applied": 4
+      },
+      {
+        "granted": 0,
+        "published": 40,
+        "year": "2009",
+        "applied": 40
+      },
+      {
+        "granted": 4,
+        "published": 128,
+        "year": "2010",
+        "applied": 124
+      },
+      {
+        "granted": 24,
+        "published": 369,
+        "year": "2011",
+        "applied": 345
+      },
+      {
+        "granted": 93,
+        "published": 834,
+        "year": "2012",
+        "applied": 741
+      },
+      {
+        "granted": 153,
+        "published": 1354,
+        "year": "2013",
+        "applied": 1201
+      },
+      {
+        "granted": 275,
+        "published": 2011,
+        "year": "2014",
+        "applied": 1736
+      },
+      {
+        "granted": 399,
+        "published": 2727,
+        "year": "2015",
+        "applied": 2328
+      },
+      {
+        "granted": 512,
+        "published": 3838,
+        "year": "2016",
+        "applied": 3326
+      },
+      {
+        "granted": 686,
+        "published": 4976,
+        "year": "2017",
+        "applied": 4290
+      },
+      {
+        "granted": 853,
+        "published": 6189,
+        "year": "2018",
+        "applied": 5336
+      },
+      {
+        "granted": 263,
+        "published": 951,
+        "year": "2019",
+        "applied": 688
+      }
+    ]
+  },
+  {
+    "technology": "Metal-organic frameworks",
+    "current_rank": 555,
+    "ipc_codes": [
+      {
+        "ipc_code": "B01J",
+        "percentage": 32.93,
+        "patent_count": 3535
+      },
+      {
+        "ipc_code": "B01D",
+        "percentage": 28.49,
+        "patent_count": 3058
+      },
+      {
+        "ipc_code": "C07F",
+        "percentage": 14.72,
+        "patent_count": 1580
+      },
+      {
+        "ipc_code": "C01B",
+        "percentage": 11.39,
+        "patent_count": 1223
+      },
+      {
+        "ipc_code": "C07C",
+        "percentage": 10.91,
+        "patent_count": 1171
+      },
+      {
+        "ipc_code": "H01M",
+        "percentage": 9.17,
+        "patent_count": 984
+      },
+      {
+        "ipc_code": "G01N",
+        "percentage": 5.92,
+        "patent_count": 635
+      },
+      {
+        "ipc_code": "A61K",
+        "percentage": 5.55,
+        "patent_count": 596
+      },
+      {
+        "ipc_code": "C08G",
+        "percentage": 5.5,
+        "patent_count": 590
+      },
+      {
+        "ipc_code": "F17C",
+        "percentage": 4.64,
+        "patent_count": 498
+      },
+      {
+        "ipc_code": "C07D",
+        "percentage": 3.98,
+        "patent_count": 427
+      },
+      {
+        "ipc_code": "C02F",
+        "percentage": 3.28,
+        "patent_count": 352
+      },
+      {
+        "ipc_code": "C09K",
+        "percentage": 3.1,
+        "patent_count": 333
+      },
+      {
+        "ipc_code": "B82Y",
+        "percentage": 2.46,
+        "patent_count": 264
+      },
+      {
+        "ipc_code": "C10L",
+        "percentage": 2.18,
+        "patent_count": 234
+      },
+      {
+        "ipc_code": "C08J",
+        "percentage": 1.98,
+        "patent_count": 212
+      },
+      {
+        "ipc_code": "F25B",
+        "percentage": 1.83,
+        "patent_count": 196
+      },
+      {
+        "ipc_code": "C25B",
+        "percentage": 1.7,
+        "patent_count": 182
+      },
+      {
+        "ipc_code": "H01L",
+        "percentage": 1.6,
+        "patent_count": 172
+      },
+      {
+        "ipc_code": "C10G",
+        "percentage": 1.46,
+        "patent_count": 157
+      }
+    ],
+    "total_patents": 10734,
+    "patents_by_year": [
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "1998",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "1999",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2000",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2001",
+        "applied": 0
+      },
+      {
+        "granted": 1,
+        "published": 3,
+        "year": "2002",
+        "applied": 2
+      },
+      {
+        "granted": 2,
+        "published": 11,
+        "year": "2003",
+        "applied": 9
+      },
+      {
+        "granted": 0,
+        "published": 18,
+        "year": "2004",
+        "applied": 18
+      },
+      {
+        "granted": 3,
+        "published": 41,
+        "year": "2005",
+        "applied": 38
+      },
+      {
+        "granted": 4,
+        "published": 99,
+        "year": "2006",
+        "applied": 95
+      },
+      {
+        "granted": 18,
+        "published": 152,
+        "year": "2007",
+        "applied": 134
+      },
+      {
+        "granted": 11,
+        "published": 239,
+        "year": "2008",
+        "applied": 228
+      },
+      {
+        "granted": 49,
+        "published": 332,
+        "year": "2009",
+        "applied": 283
+      },
+      {
+        "granted": 59,
+        "published": 368,
+        "year": "2010",
+        "applied": 309
+      },
+      {
+        "granted": 71,
+        "published": 401,
+        "year": "2011",
+        "applied": 330
+      },
+      {
+        "granted": 133,
+        "published": 598,
+        "year": "2012",
+        "applied": 465
+      },
+      {
+        "granted": 160,
+        "published": 736,
+        "year": "2013",
+        "applied": 576
+      },
+      {
+        "granted": 219,
+        "published": 939,
+        "year": "2014",
+        "applied": 720
+      },
+      {
+        "granted": 259,
+        "published": 1178,
+        "year": "2015",
+        "applied": 919
+      },
+      {
+        "granted": 329,
+        "published": 1485,
+        "year": "2016",
+        "applied": 1156
+      },
+      {
+        "granted": 333,
+        "published": 1745,
+        "year": "2017",
+        "applied": 1412
+      },
+      {
+        "granted": 395,
+        "published": 1926,
+        "year": "2018",
+        "applied": 1531
+      },
+      {
+        "granted": 140,
+        "published": 463,
+        "year": "2019",
+        "applied": 323
+      }
+    ]
+  },
+  {
+    "technology": "Mechanical metamaterials",
+    "current_rank": 616,
+    "ipc_codes": [
+      {
+        "ipc_code": "E21B",
+        "percentage": 10.39,
+        "patent_count": 8
+      },
+      {
+        "ipc_code": "E04B",
+        "percentage": 9.09,
+        "patent_count": 7
+      },
+      {
+        "ipc_code": "H02J",
+        "percentage": 9.09,
+        "patent_count": 7
+      },
+      {
+        "ipc_code": "G06F",
+        "percentage": 9.09,
+        "patent_count": 7
+      },
+      {
+        "ipc_code": "B29C",
+        "percentage": 7.79,
+        "patent_count": 6
+      },
+      {
+        "ipc_code": "F16F",
+        "percentage": 7.79,
+        "patent_count": 6
+      },
+      {
+        "ipc_code": "E04C",
+        "percentage": 7.79,
+        "patent_count": 6
+      },
+      {
+        "ipc_code": "B32B",
+        "percentage": 6.49,
+        "patent_count": 5
+      },
+      {
+        "ipc_code": "B64C",
+        "percentage": 6.49,
+        "patent_count": 5
+      },
+      {
+        "ipc_code": "A63F",
+        "percentage": 6.49,
+        "patent_count": 5
+      },
+      {
+        "ipc_code": "G03F",
+        "percentage": 6.49,
+        "patent_count": 5
+      },
+      {
+        "ipc_code": "B23P",
+        "percentage": 5.19,
+        "patent_count": 4
+      },
+      {
+        "ipc_code": "G05B",
+        "percentage": 5.19,
+        "patent_count": 4
+      },
+      {
+        "ipc_code": "H04B",
+        "percentage": 5.19,
+        "patent_count": 4
+      },
+      {
+        "ipc_code": "H01F",
+        "percentage": 5.19,
+        "patent_count": 4
+      },
+      {
+        "ipc_code": "A63B",
+        "percentage": 3.9,
+        "patent_count": 3
+      },
+      {
+        "ipc_code": "A61B",
+        "percentage": 3.9,
+        "patent_count": 3
+      },
+      {
+        "ipc_code": "B33Y",
+        "percentage": 3.9,
+        "patent_count": 3
+      },
+      {
+        "ipc_code": "H02K",
+        "percentage": 3.9,
+        "patent_count": 3
+      },
+      {
+        "ipc_code": "E04H",
+        "percentage": 3.9,
+        "patent_count": 3
+      }
+    ],
+    "total_patents": 77,
+    "patents_by_year": [
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "1998",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "1999",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2000",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2001",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2002",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2003",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2004",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2005",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2006",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2007",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2008",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2009",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 2,
+        "year": "2010",
+        "applied": 2
+      },
+      {
+        "granted": 1,
+        "published": 2,
+        "year": "2011",
+        "applied": 1
+      },
+      {
+        "granted": 1,
+        "published": 2,
+        "year": "2012",
+        "applied": 1
+      },
+      {
+        "granted": 1,
+        "published": 2,
+        "year": "2013",
+        "applied": 1
+      },
+      {
+        "granted": 1,
+        "published": 1,
+        "year": "2014",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 3,
+        "year": "2015",
+        "applied": 3
+      },
+      {
+        "granted": 1,
+        "published": 12,
+        "year": "2016",
+        "applied": 11
+      },
+      {
+        "granted": 1,
+        "published": 22,
+        "year": "2017",
+        "applied": 21
+      },
+      {
+        "granted": 3,
+        "published": 21,
+        "year": "2018",
+        "applied": 18
+      },
+      {
+        "granted": 1,
+        "published": 10,
+        "year": "2019",
+        "applied": 9
+      }
+    ]
+  },
+  {
+    "technology": "Graphene nanoplatelets",
+    "current_rank": 621,
+    "ipc_codes": [
+      {
+        "ipc_code": "C01B",
+        "percentage": 19.16,
+        "patent_count": 333
+      },
+      {
+        "ipc_code": "C08K",
+        "percentage": 19.1,
+        "patent_count": 332
+      },
+      {
+        "ipc_code": "H01M",
+        "percentage": 15.19,
+        "patent_count": 264
+      },
+      {
+        "ipc_code": "B82Y",
+        "percentage": 11.39,
+        "patent_count": 198
+      },
+      {
+        "ipc_code": "C08L",
+        "percentage": 10.99,
+        "patent_count": 191
+      },
+      {
+        "ipc_code": "H01B",
+        "percentage": 9.21,
+        "patent_count": 160
+      },
+      {
+        "ipc_code": "C08J",
+        "percentage": 8.69,
+        "patent_count": 151
+      },
+      {
+        "ipc_code": "C09D",
+        "percentage": 7.94,
+        "patent_count": 138
+      },
+      {
+        "ipc_code": "B29C",
+        "percentage": 6.96,
+        "patent_count": 121
+      },
+      {
+        "ipc_code": "B01D",
+        "percentage": 6.33,
+        "patent_count": 110
+      },
+      {
+        "ipc_code": "C09K",
+        "percentage": 4.83,
+        "patent_count": 84
+      },
+      {
+        "ipc_code": "B32B",
+        "percentage": 4.83,
+        "patent_count": 84
+      },
+      {
+        "ipc_code": "C08G",
+        "percentage": 4.78,
+        "patent_count": 83
+      },
+      {
+        "ipc_code": "H01L",
+        "percentage": 4.6,
+        "patent_count": 80
+      },
+      {
+        "ipc_code": "B01J",
+        "percentage": 4.43,
+        "patent_count": 77
+      },
+      {
+        "ipc_code": "C25B",
+        "percentage": 3.45,
+        "patent_count": 60
+      },
+      {
+        "ipc_code": "C02F",
+        "percentage": 3.16,
+        "patent_count": 55
+      },
+      {
+        "ipc_code": "H05K",
+        "percentage": 2.99,
+        "patent_count": 52
+      },
+      {
+        "ipc_code": "H01G",
+        "percentage": 2.93,
+        "patent_count": 51
+      },
+      {
+        "ipc_code": "G01N",
+        "percentage": 2.82,
+        "patent_count": 49
+      }
+    ],
+    "total_patents": 1738,
+    "patents_by_year": [
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "1998",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "1999",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2000",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2001",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2002",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2003",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2004",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2005",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2006",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 1,
+        "year": "2007",
+        "applied": 1
+      },
+      {
+        "granted": 0,
+        "published": 7,
+        "year": "2008",
+        "applied": 7
+      },
+      {
+        "granted": 0,
+        "published": 4,
+        "year": "2009",
+        "applied": 4
+      },
+      {
+        "granted": 0,
+        "published": 3,
+        "year": "2010",
+        "applied": 3
+      },
+      {
+        "granted": 1,
+        "published": 13,
+        "year": "2011",
+        "applied": 12
+      },
+      {
+        "granted": 4,
+        "published": 35,
+        "year": "2012",
+        "applied": 31
+      },
+      {
+        "granted": 5,
+        "published": 74,
+        "year": "2013",
+        "applied": 69
+      },
+      {
+        "granted": 13,
+        "published": 184,
+        "year": "2014",
+        "applied": 171
+      },
+      {
+        "granted": 31,
+        "published": 211,
+        "year": "2015",
+        "applied": 180
+      },
+      {
+        "granted": 65,
+        "published": 306,
+        "year": "2016",
+        "applied": 241
+      },
+      {
+        "granted": 74,
+        "published": 349,
+        "year": "2017",
+        "applied": 275
+      },
+      {
+        "granted": 98,
+        "published": 449,
+        "year": "2018",
+        "applied": 351
+      },
+      {
+        "granted": 33,
+        "published": 102,
+        "year": "2019",
+        "applied": 69
+      }
+    ]
+  },
+  {
+    "technology": "Acoustic metamaterials",
+    "current_rank": 661,
+    "ipc_codes": [
+      {
+        "ipc_code": "G10K",
+        "percentage": 49.2,
+        "patent_count": 154
+      },
+      {
+        "ipc_code": "H04R",
+        "percentage": 9.27,
+        "patent_count": 29
+      },
+      {
+        "ipc_code": "G01V",
+        "percentage": 5.75,
+        "patent_count": 18
+      },
+      {
+        "ipc_code": "G01N",
+        "percentage": 5.43,
+        "patent_count": 17
+      },
+      {
+        "ipc_code": "A61N",
+        "percentage": 5.11,
+        "patent_count": 16
+      },
+      {
+        "ipc_code": "B32B",
+        "percentage": 4.79,
+        "patent_count": 15
+      },
+      {
+        "ipc_code": "G01S",
+        "percentage": 4.15,
+        "patent_count": 13
+      },
+      {
+        "ipc_code": "B06B",
+        "percentage": 4.15,
+        "patent_count": 13
+      },
+      {
+        "ipc_code": "H01L",
+        "percentage": 4.15,
+        "patent_count": 13
+      },
+      {
+        "ipc_code": "E04B",
+        "percentage": 4.15,
+        "patent_count": 13
+      },
+      {
+        "ipc_code": "H03H",
+        "percentage": 3.83,
+        "patent_count": 12
+      },
+      {
+        "ipc_code": "A61B",
+        "percentage": 3.83,
+        "patent_count": 12
+      },
+      {
+        "ipc_code": "H01Q",
+        "percentage": 3.51,
+        "patent_count": 11
+      },
+      {
+        "ipc_code": "G02B",
+        "percentage": 3.51,
+        "patent_count": 11
+      },
+      {
+        "ipc_code": "F16F",
+        "percentage": 3.19,
+        "patent_count": 10
+      },
+      {
+        "ipc_code": "E21B",
+        "percentage": 2.88,
+        "patent_count": 9
+      },
+      {
+        "ipc_code": "G06F",
+        "percentage": 2.56,
+        "patent_count": 8
+      },
+      {
+        "ipc_code": "H04B",
+        "percentage": 2.56,
+        "patent_count": 8
+      },
+      {
+        "ipc_code": "F24F",
+        "percentage": 1.92,
+        "patent_count": 6
+      },
+      {
+        "ipc_code": "B81B",
+        "percentage": 1.92,
+        "patent_count": 6
+      }
+    ],
+    "total_patents": 313,
+    "patents_by_year": [
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "1998",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "1999",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2000",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2001",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2002",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2003",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2004",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2005",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2006",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2007",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2008",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2009",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 1,
+        "year": "2010",
+        "applied": 1
+      },
+      {
+        "granted": 0,
+        "published": 6,
+        "year": "2011",
+        "applied": 6
+      },
+      {
+        "granted": 1,
+        "published": 18,
+        "year": "2012",
+        "applied": 17
+      },
+      {
+        "granted": 5,
+        "published": 15,
+        "year": "2013",
+        "applied": 10
+      },
+      {
+        "granted": 1,
+        "published": 21,
+        "year": "2014",
+        "applied": 20
+      },
+      {
+        "granted": 7,
+        "published": 25,
+        "year": "2015",
+        "applied": 18
+      },
+      {
+        "granted": 13,
+        "published": 56,
+        "year": "2016",
+        "applied": 43
+      },
+      {
+        "granted": 18,
+        "published": 56,
+        "year": "2017",
+        "applied": 38
+      },
+      {
+        "granted": 17,
+        "published": 91,
+        "year": "2018",
+        "applied": 74
+      },
+      {
+        "granted": 6,
+        "published": 24,
+        "year": "2019",
+        "applied": 18
+      }
+    ]
+  },
+  {
+    "technology": "Graphene",
+    "current_rank": 827,
+    "ipc_codes": [
+      {
+        "ipc_code": "H01L",
+        "percentage": 18.17,
+        "patent_count": 25182
+      },
+      {
+        "ipc_code": "C01B",
+        "percentage": 14.45,
+        "patent_count": 20018
+      },
+      {
+        "ipc_code": "H01M",
+        "percentage": 13.22,
+        "patent_count": 18322
+      },
+      {
+        "ipc_code": "C08K",
+        "percentage": 7.47,
+        "patent_count": 10350
+      },
+      {
+        "ipc_code": "C08L",
+        "percentage": 6.52,
+        "patent_count": 9036
+      },
+      {
+        "ipc_code": "B82Y",
+        "percentage": 6.37,
+        "patent_count": 8829
+      },
+      {
+        "ipc_code": "G01N",
+        "percentage": 5.54,
+        "patent_count": 7673
+      },
+      {
+        "ipc_code": "B01J",
+        "percentage": 5.49,
+        "patent_count": 7600
+      },
+      {
+        "ipc_code": "H01B",
+        "percentage": 4.22,
+        "patent_count": 5844
+      },
+      {
+        "ipc_code": "H01G",
+        "percentage": 4.07,
+        "patent_count": 5639
+      },
+      {
+        "ipc_code": "G06F",
+        "percentage": 3.97,
+        "patent_count": 5506
+      },
+      {
+        "ipc_code": "C09D",
+        "percentage": 3.85,
+        "patent_count": 5336
+      },
+      {
+        "ipc_code": "B32B",
+        "percentage": 3.49,
+        "patent_count": 4830
+      },
+      {
+        "ipc_code": "C08J",
+        "percentage": 3.26,
+        "patent_count": 4518
+      },
+      {
+        "ipc_code": "C09K",
+        "percentage": 2.87,
+        "patent_count": 3979
+      },
+      {
+        "ipc_code": "C23C",
+        "percentage": 2.87,
+        "patent_count": 3974
+      },
+      {
+        "ipc_code": "C08G",
+        "percentage": 2.44,
+        "patent_count": 3382
+      },
+      {
+        "ipc_code": "B01D",
+        "percentage": 2.27,
+        "patent_count": 3139
+      },
+      {
+        "ipc_code": "G02F",
+        "percentage": 2.23,
+        "patent_count": 3094
+      },
+      {
+        "ipc_code": "H05K",
+        "percentage": 2.2,
+        "patent_count": 3050
+      }
+    ],
+    "total_patents": 138557,
+    "patents_by_year": [
+      {
+        "granted": 2,
+        "published": 5,
+        "year": "1998",
+        "applied": 3
+      },
+      {
+        "granted": 2,
+        "published": 9,
+        "year": "1999",
+        "applied": 7
+      },
+      {
+        "granted": 10,
+        "published": 31,
+        "year": "2000",
+        "applied": 21
+      },
+      {
+        "granted": 7,
+        "published": 54,
+        "year": "2001",
+        "applied": 47
+      },
+      {
+        "granted": 16,
+        "published": 178,
+        "year": "2002",
+        "applied": 162
+      },
+      {
+        "granted": 33,
+        "published": 234,
+        "year": "2003",
+        "applied": 201
+      },
+      {
+        "granted": 48,
+        "published": 335,
+        "year": "2004",
+        "applied": 287
+      },
+      {
+        "granted": 62,
+        "published": 429,
+        "year": "2005",
+        "applied": 367
+      },
+      {
+        "granted": 107,
+        "published": 580,
+        "year": "2006",
+        "applied": 473
+      },
+      {
+        "granted": 120,
+        "published": 660,
+        "year": "2007",
+        "applied": 540
+      },
+      {
+        "granted": 153,
+        "published": 877,
+        "year": "2008",
+        "applied": 724
+      },
+      {
+        "granted": 181,
+        "published": 1159,
+        "year": "2009",
+        "applied": 978
+      },
+      {
+        "granted": 306,
+        "published": 1977,
+        "year": "2010",
+        "applied": 1671
+      },
+      {
+        "granted": 530,
+        "published": 3536,
+        "year": "2011",
+        "applied": 3006
+      },
+      {
+        "granted": 975,
+        "published": 6379,
+        "year": "2012",
+        "applied": 5404
+      },
+      {
+        "granted": 1757,
+        "published": 9826,
+        "year": "2013",
+        "applied": 8069
+      },
+      {
+        "granted": 2796,
+        "published": 13362,
+        "year": "2014",
+        "applied": 10566
+      },
+      {
+        "granted": 3698,
+        "published": 16884,
+        "year": "2015",
+        "applied": 13186
+      },
+      {
+        "granted": 4221,
+        "published": 21371,
+        "year": "2016",
+        "applied": 17150
+      },
+      {
+        "granted": 5361,
+        "published": 25773,
+        "year": "2017",
+        "applied": 20412
+      },
+      {
+        "granted": 6152,
+        "published": 29212,
+        "year": "2018",
+        "applied": 23060
+      },
+      {
+        "granted": 1785,
+        "published": 5686,
+        "year": "2019",
+        "applied": 3901
+      }
+    ]
+  },
+  {
+    "technology": "Optical metamaterials",
+    "current_rank": 916,
+    "ipc_codes": [
+      {
+        "ipc_code": "G02B",
+        "percentage": 38.12,
+        "patent_count": 130
+      },
+      {
+        "ipc_code": "G02F",
+        "percentage": 19.65,
+        "patent_count": 67
+      },
+      {
+        "ipc_code": "H01L",
+        "percentage": 17.6,
+        "patent_count": 60
+      },
+      {
+        "ipc_code": "G01N",
+        "percentage": 7.33,
+        "patent_count": 25
+      },
+      {
+        "ipc_code": "B82Y",
+        "percentage": 6.74,
+        "patent_count": 23
+      },
+      {
+        "ipc_code": "H01Q",
+        "percentage": 6.45,
+        "patent_count": 22
+      },
+      {
+        "ipc_code": "G01J",
+        "percentage": 3.81,
+        "patent_count": 13
+      },
+      {
+        "ipc_code": "H04N",
+        "percentage": 3.52,
+        "patent_count": 12
+      },
+      {
+        "ipc_code": "B32B",
+        "percentage": 3.52,
+        "patent_count": 12
+      },
+      {
+        "ipc_code": "B29C",
+        "percentage": 3.52,
+        "patent_count": 12
+      },
+      {
+        "ipc_code": "G10K",
+        "percentage": 2.93,
+        "patent_count": 10
+      },
+      {
+        "ipc_code": "H01B",
+        "percentage": 2.93,
+        "patent_count": 10
+      },
+      {
+        "ipc_code": "G06F",
+        "percentage": 2.64,
+        "patent_count": 9
+      },
+      {
+        "ipc_code": "B05D",
+        "percentage": 2.35,
+        "patent_count": 8
+      },
+      {
+        "ipc_code": "G03H",
+        "percentage": 2.35,
+        "patent_count": 8
+      },
+      {
+        "ipc_code": "H04B",
+        "percentage": 2.35,
+        "patent_count": 8
+      },
+      {
+        "ipc_code": "F28F",
+        "percentage": 2.35,
+        "patent_count": 8
+      },
+      {
+        "ipc_code": "H01S",
+        "percentage": 2.05,
+        "patent_count": 7
+      },
+      {
+        "ipc_code": "H01J",
+        "percentage": 2.05,
+        "patent_count": 7
+      },
+      {
+        "ipc_code": "B01L",
+        "percentage": 2.05,
+        "patent_count": 7
+      }
+    ],
+    "total_patents": 341,
+    "patents_by_year": [
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "1998",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "1999",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2000",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2001",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2002",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2003",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2004",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2005",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2006",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 4,
+        "year": "2007",
+        "applied": 4
+      },
+      {
+        "granted": 1,
+        "published": 7,
+        "year": "2008",
+        "applied": 6
+      },
+      {
+        "granted": 2,
+        "published": 9,
+        "year": "2009",
+        "applied": 7
+      },
+      {
+        "granted": 5,
+        "published": 14,
+        "year": "2010",
+        "applied": 9
+      },
+      {
+        "granted": 4,
+        "published": 16,
+        "year": "2011",
+        "applied": 12
+      },
+      {
+        "granted": 10,
+        "published": 24,
+        "year": "2012",
+        "applied": 14
+      },
+      {
+        "granted": 1,
+        "published": 18,
+        "year": "2013",
+        "applied": 17
+      },
+      {
+        "granted": 9,
+        "published": 37,
+        "year": "2014",
+        "applied": 28
+      },
+      {
+        "granted": 9,
+        "published": 39,
+        "year": "2015",
+        "applied": 30
+      },
+      {
+        "granted": 14,
+        "published": 53,
+        "year": "2016",
+        "applied": 39
+      },
+      {
+        "granted": 15,
+        "published": 43,
+        "year": "2017",
+        "applied": 28
+      },
+      {
+        "granted": 25,
+        "published": 58,
+        "year": "2018",
+        "applied": 33
+      },
+      {
+        "granted": 6,
+        "published": 19,
+        "year": "2019",
+        "applied": 13
+      }
+    ]
+  },
+  {
+    "technology": "Energy storage",
+    "current_rank": 930,
+    "ipc_codes": [
+      {
+        "ipc_code": "H02J",
+        "percentage": 14.08,
+        "patent_count": 45218
+      },
+      {
+        "ipc_code": "H01M",
+        "percentage": 12.79,
+        "patent_count": 41097
+      },
+      {
+        "ipc_code": "H02M",
+        "percentage": 6.03,
+        "patent_count": 19379
+      },
+      {
+        "ipc_code": "B60L",
+        "percentage": 4.77,
+        "patent_count": 15330
+      },
+      {
+        "ipc_code": "H01G",
+        "percentage": 3.71,
+        "patent_count": 11902
+      },
+      {
+        "ipc_code": "G06F",
+        "percentage": 3.63,
+        "patent_count": 11661
+      },
+      {
+        "ipc_code": "H01L",
+        "percentage": 3.46,
+        "patent_count": 11115
+      },
+      {
+        "ipc_code": "B60K",
+        "percentage": 3.16,
+        "patent_count": 10148
+      },
+      {
+        "ipc_code": "A61B",
+        "percentage": 3.0,
+        "patent_count": 9646
+      },
+      {
+        "ipc_code": "A61N",
+        "percentage": 2.53,
+        "patent_count": 8142
+      },
+      {
+        "ipc_code": "B60W",
+        "percentage": 2.45,
+        "patent_count": 7882
+      },
+      {
+        "ipc_code": "G01R",
+        "percentage": 2.41,
+        "patent_count": 7750
+      },
+      {
+        "ipc_code": "H05B",
+        "percentage": 2.41,
+        "patent_count": 7730
+      },
+      {
+        "ipc_code": "A61K",
+        "percentage": 2.37,
+        "patent_count": 7597
+      },
+      {
+        "ipc_code": "H02K",
+        "percentage": 1.97,
+        "patent_count": 6333
+      },
+      {
+        "ipc_code": "A61M",
+        "percentage": 1.87,
+        "patent_count": 5993
+      },
+      {
+        "ipc_code": "C01B",
+        "percentage": 1.77,
+        "patent_count": 5682
+      },
+      {
+        "ipc_code": "A61F",
+        "percentage": 1.71,
+        "patent_count": 5487
+      },
+      {
+        "ipc_code": "G01N",
+        "percentage": 1.69,
+        "patent_count": 5428
+      },
+      {
+        "ipc_code": "H02P",
+        "percentage": 1.67,
+        "patent_count": 5372
+      }
+    ],
+    "total_patents": 321209,
+    "patents_by_year": [
+      {
+        "granted": 1316,
+        "published": 2266,
+        "year": "1998",
+        "applied": 950
+      },
+      {
+        "granted": 1398,
+        "published": 2666,
+        "year": "1999",
+        "applied": 1268
+      },
+      {
+        "granted": 1420,
+        "published": 3094,
+        "year": "2000",
+        "applied": 1674
+      },
+      {
+        "granted": 1512,
+        "published": 3810,
+        "year": "2001",
+        "applied": 2298
+      },
+      {
+        "granted": 1635,
+        "published": 4949,
+        "year": "2002",
+        "applied": 3314
+      },
+      {
+        "granted": 1995,
+        "published": 5790,
+        "year": "2003",
+        "applied": 3795
+      },
+      {
+        "granted": 1882,
+        "published": 5883,
+        "year": "2004",
+        "applied": 4001
+      },
+      {
+        "granted": 1891,
+        "published": 6787,
+        "year": "2005",
+        "applied": 4896
+      },
+      {
+        "granted": 2417,
+        "published": 8037,
+        "year": "2006",
+        "applied": 5620
+      },
+      {
+        "granted": 2542,
+        "published": 8999,
+        "year": "2007",
+        "applied": 6457
+      },
+      {
+        "granted": 2672,
+        "published": 9982,
+        "year": "2008",
+        "applied": 7310
+      },
+      {
+        "granted": 3118,
+        "published": 11684,
+        "year": "2009",
+        "applied": 8566
+      },
+      {
+        "granted": 4182,
+        "published": 14415,
+        "year": "2010",
+        "applied": 10233
+      },
+      {
+        "granted": 5312,
+        "published": 17070,
+        "year": "2011",
+        "applied": 11758
+      },
+      {
+        "granted": 6588,
+        "published": 20810,
+        "year": "2012",
+        "applied": 14222
+      },
+      {
+        "granted": 8118,
+        "published": 24047,
+        "year": "2013",
+        "applied": 15929
+      },
+      {
+        "granted": 9030,
+        "published": 26995,
+        "year": "2014",
+        "applied": 17965
+      },
+      {
+        "granted": 10532,
+        "published": 28832,
+        "year": "2015",
+        "applied": 18300
+      },
+      {
+        "granted": 11964,
+        "published": 32512,
+        "year": "2016",
+        "applied": 20548
+      },
+      {
+        "granted": 13679,
+        "published": 35795,
+        "year": "2017",
+        "applied": 22116
+      },
+      {
+        "granted": 14757,
+        "published": 38335,
+        "year": "2018",
+        "applied": 23578
+      },
+      {
+        "granted": 3295,
+        "published": 8451,
+        "year": "2019",
+        "applied": 5156
+      }
+    ]
+  },
+  {
+    "technology": "Flow batteries",
+    "current_rank": 968,
+    "ipc_codes": [
+      {
+        "ipc_code": "H01M",
+        "percentage": 78.81,
+        "patent_count": 7257
+      },
+      {
+        "ipc_code": "H02J",
+        "percentage": 10.6,
+        "patent_count": 976
+      },
+      {
+        "ipc_code": "C08J",
+        "percentage": 2.88,
+        "patent_count": 265
+      },
+      {
+        "ipc_code": "C25B",
+        "percentage": 2.52,
+        "patent_count": 232
+      },
+      {
+        "ipc_code": "C08G",
+        "percentage": 2.28,
+        "patent_count": 210
+      },
+      {
+        "ipc_code": "G01R",
+        "percentage": 2.22,
+        "patent_count": 204
+      },
+      {
+        "ipc_code": "B60L",
+        "percentage": 2.1,
+        "patent_count": 193
+      },
+      {
+        "ipc_code": "B01D",
+        "percentage": 2.0,
+        "patent_count": 184
+      },
+      {
+        "ipc_code": "C08L",
+        "percentage": 1.82,
+        "patent_count": 168
+      },
+      {
+        "ipc_code": "H02M",
+        "percentage": 1.53,
+        "patent_count": 141
+      },
+      {
+        "ipc_code": "B01J",
+        "percentage": 1.51,
+        "patent_count": 139
+      },
+      {
+        "ipc_code": "C01G",
+        "percentage": 1.47,
+        "patent_count": 135
+      },
+      {
+        "ipc_code": "C01B",
+        "percentage": 1.4,
+        "patent_count": 129
+      },
+      {
+        "ipc_code": "H01G",
+        "percentage": 1.4,
+        "patent_count": 129
+      },
+      {
+        "ipc_code": "H01B",
+        "percentage": 1.38,
+        "patent_count": 127
+      },
+      {
+        "ipc_code": "G06F",
+        "percentage": 1.26,
+        "patent_count": 116
+      },
+      {
+        "ipc_code": "G01N",
+        "percentage": 1.11,
+        "patent_count": 102
+      },
+      {
+        "ipc_code": "G06Q",
+        "percentage": 1.1,
+        "patent_count": 101
+      },
+      {
+        "ipc_code": "H02P",
+        "percentage": 1.01,
+        "patent_count": 93
+      },
+      {
+        "ipc_code": "F03D",
+        "percentage": 1.0,
+        "patent_count": 92
+      }
+    ],
+    "total_patents": 9208,
+    "patents_by_year": [
+      {
+        "granted": 8,
+        "published": 23,
+        "year": "1998",
+        "applied": 15
+      },
+      {
+        "granted": 11,
+        "published": 27,
+        "year": "1999",
+        "applied": 16
+      },
+      {
+        "granted": 5,
+        "published": 30,
+        "year": "2000",
+        "applied": 25
+      },
+      {
+        "granted": 7,
+        "published": 53,
+        "year": "2001",
+        "applied": 46
+      },
+      {
+        "granted": 13,
+        "published": 45,
+        "year": "2002",
+        "applied": 32
+      },
+      {
+        "granted": 18,
+        "published": 80,
+        "year": "2003",
+        "applied": 62
+      },
+      {
+        "granted": 18,
+        "published": 72,
+        "year": "2004",
+        "applied": 54
+      },
+      {
+        "granted": 16,
+        "published": 61,
+        "year": "2005",
+        "applied": 45
+      },
+      {
+        "granted": 15,
+        "published": 60,
+        "year": "2006",
+        "applied": 45
+      },
+      {
+        "granted": 27,
+        "published": 61,
+        "year": "2007",
+        "applied": 34
+      },
+      {
+        "granted": 20,
+        "published": 75,
+        "year": "2008",
+        "applied": 55
+      },
+      {
+        "granted": 21,
+        "published": 111,
+        "year": "2009",
+        "applied": 90
+      },
+      {
+        "granted": 34,
+        "published": 216,
+        "year": "2010",
+        "applied": 182
+      },
+      {
+        "granted": 54,
+        "published": 302,
+        "year": "2011",
+        "applied": 248
+      },
+      {
+        "granted": 139,
+        "published": 533,
+        "year": "2012",
+        "applied": 394
+      },
+      {
+        "granted": 134,
+        "published": 600,
+        "year": "2013",
+        "applied": 466
+      },
+      {
+        "granted": 210,
+        "published": 861,
+        "year": "2014",
+        "applied": 651
+      },
+      {
+        "granted": 262,
+        "published": 1057,
+        "year": "2015",
+        "applied": 795
+      },
+      {
+        "granted": 277,
+        "published": 1211,
+        "year": "2016",
+        "applied": 934
+      },
+      {
+        "granted": 406,
+        "published": 1549,
+        "year": "2017",
+        "applied": 1143
+      },
+      {
+        "granted": 479,
+        "published": 1729,
+        "year": "2018",
+        "applied": 1250
+      },
+      {
+        "granted": 142,
+        "published": 452,
+        "year": "2019",
+        "applied": 310
+      }
+    ]
+  },
+  {
+    "technology": "Multi-walled carbon nanotubes",
+    "current_rank": 1947,
+    "ipc_codes": [
+      {
+        "ipc_code": "C01B",
+        "percentage": 17.49,
+        "patent_count": 4038
+      },
+      {
+        "ipc_code": "H01M",
+        "percentage": 12.86,
+        "patent_count": 2970
+      },
+      {
+        "ipc_code": "B82Y",
+        "percentage": 11.93,
+        "patent_count": 2755
+      },
+      {
+        "ipc_code": "H01L",
+        "percentage": 11.82,
+        "patent_count": 2728
+      },
+      {
+        "ipc_code": "C08K",
+        "percentage": 10.21,
+        "patent_count": 2357
+      },
+      {
+        "ipc_code": "H01B",
+        "percentage": 8.32,
+        "patent_count": 1920
+      },
+      {
+        "ipc_code": "B01J",
+        "percentage": 7.93,
+        "patent_count": 1830
+      },
+      {
+        "ipc_code": "C08L",
+        "percentage": 7.59,
+        "patent_count": 1752
+      },
+      {
+        "ipc_code": "B32B",
+        "percentage": 6.87,
+        "patent_count": 1585
+      },
+      {
+        "ipc_code": "D01F",
+        "percentage": 6.82,
+        "patent_count": 1575
+      },
+      {
+        "ipc_code": "G01N",
+        "percentage": 6.23,
+        "patent_count": 1439
+      },
+      {
+        "ipc_code": "B82B",
+        "percentage": 5.51,
+        "patent_count": 1271
+      },
+      {
+        "ipc_code": "C08J",
+        "percentage": 5.43,
+        "patent_count": 1253
+      },
+      {
+        "ipc_code": "B05D",
+        "percentage": 4.37,
+        "patent_count": 1010
+      },
+      {
+        "ipc_code": "H01G",
+        "percentage": 4.14,
+        "patent_count": 956
+      },
+      {
+        "ipc_code": "H01J",
+        "percentage": 4.06,
+        "patent_count": 938
+      },
+      {
+        "ipc_code": "C09D",
+        "percentage": 3.67,
+        "patent_count": 848
+      },
+      {
+        "ipc_code": "C23C",
+        "percentage": 3.61,
+        "patent_count": 834
+      },
+      {
+        "ipc_code": "B29C",
+        "percentage": 3.41,
+        "patent_count": 788
+      },
+      {
+        "ipc_code": "C09K",
+        "percentage": 3.14,
+        "patent_count": 726
+      }
+    ],
+    "total_patents": 23086,
+    "patents_by_year": [
+      {
+        "granted": 0,
+        "published": 3,
+        "year": "1998",
+        "applied": 3
+      },
+      {
+        "granted": 1,
+        "published": 7,
+        "year": "1999",
+        "applied": 6
+      },
+      {
+        "granted": 0,
+        "published": 12,
+        "year": "2000",
+        "applied": 12
+      },
+      {
+        "granted": 10,
+        "published": 54,
+        "year": "2001",
+        "applied": 44
+      },
+      {
+        "granted": 11,
+        "published": 145,
+        "year": "2002",
+        "applied": 134
+      },
+      {
+        "granted": 17,
+        "published": 234,
+        "year": "2003",
+        "applied": 217
+      },
+      {
+        "granted": 54,
+        "published": 343,
+        "year": "2004",
+        "applied": 289
+      },
+      {
+        "granted": 89,
+        "published": 583,
+        "year": "2005",
+        "applied": 494
+      },
+      {
+        "granted": 126,
+        "published": 805,
+        "year": "2006",
+        "applied": 679
+      },
+      {
+        "granted": 151,
+        "published": 896,
+        "year": "2007",
+        "applied": 745
+      },
+      {
+        "granted": 178,
+        "published": 1157,
+        "year": "2008",
+        "applied": 979
+      },
+      {
+        "granted": 229,
+        "published": 1259,
+        "year": "2009",
+        "applied": 1030
+      },
+      {
+        "granted": 343,
+        "published": 1558,
+        "year": "2010",
+        "applied": 1215
+      },
+      {
+        "granted": 457,
+        "published": 1724,
+        "year": "2011",
+        "applied": 1267
+      },
+      {
+        "granted": 568,
+        "published": 2003,
+        "year": "2012",
+        "applied": 1435
+      },
+      {
+        "granted": 586,
+        "published": 1872,
+        "year": "2013",
+        "applied": 1286
+      },
+      {
+        "granted": 698,
+        "published": 1965,
+        "year": "2014",
+        "applied": 1267
+      },
+      {
+        "granted": 644,
+        "published": 1938,
+        "year": "2015",
+        "applied": 1294
+      },
+      {
+        "granted": 652,
+        "published": 1966,
+        "year": "2016",
+        "applied": 1314
+      },
+      {
+        "granted": 749,
+        "published": 2054,
+        "year": "2017",
+        "applied": 1305
+      },
+      {
+        "granted": 744,
+        "published": 1932,
+        "year": "2018",
+        "applied": 1188
+      },
+      {
+        "granted": 185,
+        "published": 576,
+        "year": "2019",
+        "applied": 391
+      }
+    ]
+  },
+  {
+    "technology": "Single-walled carbon nanotubes",
+    "current_rank": 2025,
+    "ipc_codes": [
+      {
+        "ipc_code": "C01B",
+        "percentage": 19.76,
+        "patent_count": 4736
+      },
+      {
+        "ipc_code": "H01L",
+        "percentage": 17.9,
+        "patent_count": 4289
+      },
+      {
+        "ipc_code": "B82Y",
+        "percentage": 11.54,
+        "patent_count": 2766
+      },
+      {
+        "ipc_code": "H01M",
+        "percentage": 8.83,
+        "patent_count": 2116
+      },
+      {
+        "ipc_code": "G01N",
+        "percentage": 8.54,
+        "patent_count": 2046
+      },
+      {
+        "ipc_code": "H01B",
+        "percentage": 8.09,
+        "patent_count": 1939
+      },
+      {
+        "ipc_code": "D01F",
+        "percentage": 7.89,
+        "patent_count": 1892
+      },
+      {
+        "ipc_code": "C08K",
+        "percentage": 7.71,
+        "patent_count": 1849
+      },
+      {
+        "ipc_code": "B01J",
+        "percentage": 6.82,
+        "patent_count": 1634
+      },
+      {
+        "ipc_code": "B82B",
+        "percentage": 6.58,
+        "patent_count": 1577
+      },
+      {
+        "ipc_code": "B32B",
+        "percentage": 6.01,
+        "patent_count": 1441
+      },
+      {
+        "ipc_code": "C08L",
+        "percentage": 5.12,
+        "patent_count": 1227
+      },
+      {
+        "ipc_code": "B05D",
+        "percentage": 4.5,
+        "patent_count": 1079
+      },
+      {
+        "ipc_code": "A61K",
+        "percentage": 4.29,
+        "patent_count": 1029
+      },
+      {
+        "ipc_code": "H01J",
+        "percentage": 3.88,
+        "patent_count": 930
+      },
+      {
+        "ipc_code": "C08J",
+        "percentage": 3.83,
+        "patent_count": 917
+      },
+      {
+        "ipc_code": "H01G",
+        "percentage": 3.75,
+        "patent_count": 899
+      },
+      {
+        "ipc_code": "C23C",
+        "percentage": 3.31,
+        "patent_count": 793
+      },
+      {
+        "ipc_code": "C09D",
+        "percentage": 2.91,
+        "patent_count": 698
+      },
+      {
+        "ipc_code": "G11C",
+        "percentage": 2.65,
+        "patent_count": 634
+      }
+    ],
+    "total_patents": 23967,
+    "patents_by_year": [
+      {
+        "granted": 1,
+        "published": 6,
+        "year": "1998",
+        "applied": 5
+      },
+      {
+        "granted": 0,
+        "published": 8,
+        "year": "1999",
+        "applied": 8
+      },
+      {
+        "granted": 1,
+        "published": 32,
+        "year": "2000",
+        "applied": 31
+      },
+      {
+        "granted": 21,
+        "published": 85,
+        "year": "2001",
+        "applied": 64
+      },
+      {
+        "granted": 19,
+        "published": 217,
+        "year": "2002",
+        "applied": 198
+      },
+      {
+        "granted": 32,
+        "published": 366,
+        "year": "2003",
+        "applied": 334
+      },
+      {
+        "granted": 80,
+        "published": 567,
+        "year": "2004",
+        "applied": 487
+      },
+      {
+        "granted": 118,
+        "published": 843,
+        "year": "2005",
+        "applied": 725
+      },
+      {
+        "granted": 185,
+        "published": 1138,
+        "year": "2006",
+        "applied": 953
+      },
+      {
+        "granted": 224,
+        "published": 1147,
+        "year": "2007",
+        "applied": 923
+      },
+      {
+        "granted": 264,
+        "published": 1403,
+        "year": "2008",
+        "applied": 1139
+      },
+      {
+        "granted": 298,
+        "published": 1509,
+        "year": "2009",
+        "applied": 1211
+      },
+      {
+        "granted": 454,
+        "published": 1764,
+        "year": "2010",
+        "applied": 1310
+      },
+      {
+        "granted": 545,
+        "published": 1780,
+        "year": "2011",
+        "applied": 1235
+      },
+      {
+        "granted": 578,
+        "published": 1848,
+        "year": "2012",
+        "applied": 1270
+      },
+      {
+        "granted": 625,
+        "published": 1819,
+        "year": "2013",
+        "applied": 1194
+      },
+      {
+        "granted": 689,
+        "published": 1840,
+        "year": "2014",
+        "applied": 1151
+      },
+      {
+        "granted": 656,
+        "published": 1775,
+        "year": "2015",
+        "applied": 1119
+      },
+      {
+        "granted": 639,
+        "published": 1766,
+        "year": "2016",
+        "applied": 1127
+      },
+      {
+        "granted": 705,
+        "published": 1840,
+        "year": "2017",
+        "applied": 1135
+      },
+      {
+        "granted": 680,
+        "published": 1699,
+        "year": "2018",
+        "applied": 1019
+      },
+      {
+        "granted": 169,
+        "published": 515,
+        "year": "2019",
+        "applied": 346
+      }
+    ]
+  },
+  {
+    "technology": "Graphene films",
+    "current_rank": 2071,
+    "ipc_codes": [
+      {
+        "ipc_code": "C01B",
+        "percentage": 30.12,
+        "patent_count": 1966
+      },
+      {
+        "ipc_code": "H01L",
+        "percentage": 26.77,
+        "patent_count": 1747
+      },
+      {
+        "ipc_code": "B82Y",
+        "percentage": 11.84,
+        "patent_count": 773
+      },
+      {
+        "ipc_code": "C23C",
+        "percentage": 10.22,
+        "patent_count": 667
+      },
+      {
+        "ipc_code": "H01B",
+        "percentage": 8.52,
+        "patent_count": 556
+      },
+      {
+        "ipc_code": "B32B",
+        "percentage": 6.79,
+        "patent_count": 443
+      },
+      {
+        "ipc_code": "H01M",
+        "percentage": 6.57,
+        "patent_count": 429
+      },
+      {
+        "ipc_code": "G01N",
+        "percentage": 5.7,
+        "patent_count": 372
+      },
+      {
+        "ipc_code": "H01G",
+        "percentage": 5.5,
+        "patent_count": 359
+      },
+      {
+        "ipc_code": "B01D",
+        "percentage": 3.69,
+        "patent_count": 241
+      },
+      {
+        "ipc_code": "B01J",
+        "percentage": 2.9,
+        "patent_count": 189
+      },
+      {
+        "ipc_code": "B05D",
+        "percentage": 2.88,
+        "patent_count": 188
+      },
+      {
+        "ipc_code": "C30B",
+        "percentage": 2.87,
+        "patent_count": 187
+      },
+      {
+        "ipc_code": "H05K",
+        "percentage": 2.87,
+        "patent_count": 187
+      },
+      {
+        "ipc_code": "C09D",
+        "percentage": 2.28,
+        "patent_count": 149
+      },
+      {
+        "ipc_code": "C08K",
+        "percentage": 2.21,
+        "patent_count": 144
+      },
+      {
+        "ipc_code": "G06F",
+        "percentage": 2.21,
+        "patent_count": 144
+      },
+      {
+        "ipc_code": "H01J",
+        "percentage": 2.04,
+        "patent_count": 133
+      },
+      {
+        "ipc_code": "G02B",
+        "percentage": 1.87,
+        "patent_count": 122
+      },
+      {
+        "ipc_code": "B82B",
+        "percentage": 1.82,
+        "patent_count": 119
+      }
+    ],
+    "total_patents": 6527,
+    "patents_by_year": [
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "1998",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "1999",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2000",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2001",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2002",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 1,
+        "year": "2003",
+        "applied": 1
+      },
+      {
+        "granted": 0,
+        "published": 1,
+        "year": "2004",
+        "applied": 1
+      },
+      {
+        "granted": 0,
+        "published": 2,
+        "year": "2005",
+        "applied": 2
+      },
+      {
+        "granted": 0,
+        "published": 1,
+        "year": "2006",
+        "applied": 1
+      },
+      {
+        "granted": 1,
+        "published": 3,
+        "year": "2007",
+        "applied": 2
+      },
+      {
+        "granted": 3,
+        "published": 9,
+        "year": "2008",
+        "applied": 6
+      },
+      {
+        "granted": 0,
+        "published": 29,
+        "year": "2009",
+        "applied": 29
+      },
+      {
+        "granted": 3,
+        "published": 82,
+        "year": "2010",
+        "applied": 79
+      },
+      {
+        "granted": 10,
+        "published": 221,
+        "year": "2011",
+        "applied": 211
+      },
+      {
+        "granted": 53,
+        "published": 448,
+        "year": "2012",
+        "applied": 395
+      },
+      {
+        "granted": 110,
+        "published": 635,
+        "year": "2013",
+        "applied": 525
+      },
+      {
+        "granted": 159,
+        "published": 756,
+        "year": "2014",
+        "applied": 597
+      },
+      {
+        "granted": 251,
+        "published": 927,
+        "year": "2015",
+        "applied": 676
+      },
+      {
+        "granted": 298,
+        "published": 925,
+        "year": "2016",
+        "applied": 627
+      },
+      {
+        "granted": 345,
+        "published": 1084,
+        "year": "2017",
+        "applied": 739
+      },
+      {
+        "granted": 375,
+        "published": 1166,
+        "year": "2018",
+        "applied": 791
+      },
+      {
+        "granted": 79,
+        "published": 237,
+        "year": "2019",
+        "applied": 158
+      }
+    ]
+  },
+  {
+    "technology": "Metamaterials",
+    "current_rank": 2217,
+    "ipc_codes": [
+      {
+        "ipc_code": "H01Q",
+        "percentage": 32.18,
+        "patent_count": 4476
+      },
+      {
+        "ipc_code": "G02B",
+        "percentage": 12.8,
+        "patent_count": 1780
+      },
+      {
+        "ipc_code": "H01L",
+        "percentage": 8.66,
+        "patent_count": 1205
+      },
+      {
+        "ipc_code": "H01P",
+        "percentage": 8.3,
+        "patent_count": 1154
+      },
+      {
+        "ipc_code": "G01N",
+        "percentage": 5.43,
+        "patent_count": 755
+      },
+      {
+        "ipc_code": "H02J",
+        "percentage": 5.38,
+        "patent_count": 748
+      },
+      {
+        "ipc_code": "H04B",
+        "percentage": 4.67,
+        "patent_count": 649
+      },
+      {
+        "ipc_code": "G02F",
+        "percentage": 4.13,
+        "patent_count": 575
+      },
+      {
+        "ipc_code": "H05K",
+        "percentage": 3.5,
+        "patent_count": 487
+      },
+      {
+        "ipc_code": "H01F",
+        "percentage": 2.89,
+        "patent_count": 402
+      },
+      {
+        "ipc_code": "A61B",
+        "percentage": 2.86,
+        "patent_count": 398
+      },
+      {
+        "ipc_code": "B82Y",
+        "percentage": 2.47,
+        "patent_count": 344
+      },
+      {
+        "ipc_code": "G01S",
+        "percentage": 2.47,
+        "patent_count": 344
+      },
+      {
+        "ipc_code": "G06F",
+        "percentage": 2.36,
+        "patent_count": 328
+      },
+      {
+        "ipc_code": "G01J",
+        "percentage": 2.36,
+        "patent_count": 328
+      },
+      {
+        "ipc_code": "B32B",
+        "percentage": 2.26,
+        "patent_count": 315
+      },
+      {
+        "ipc_code": "H04W",
+        "percentage": 2.07,
+        "patent_count": 288
+      },
+      {
+        "ipc_code": "H03H",
+        "percentage": 1.86,
+        "patent_count": 259
+      },
+      {
+        "ipc_code": "G01R",
+        "percentage": 1.86,
+        "patent_count": 259
+      },
+      {
+        "ipc_code": "H04N",
+        "percentage": 1.86,
+        "patent_count": 258
+      }
+    ],
+    "total_patents": 13908,
+    "patents_by_year": [
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "1998",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "1999",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 1,
+        "year": "2000",
+        "applied": 1
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2001",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 1,
+        "year": "2002",
+        "applied": 1
+      },
+      {
+        "granted": 4,
+        "published": 20,
+        "year": "2003",
+        "applied": 16
+      },
+      {
+        "granted": 24,
+        "published": 102,
+        "year": "2004",
+        "applied": 78
+      },
+      {
+        "granted": 10,
+        "published": 65,
+        "year": "2005",
+        "applied": 55
+      },
+      {
+        "granted": 29,
+        "published": 98,
+        "year": "2006",
+        "applied": 69
+      },
+      {
+        "granted": 42,
+        "published": 172,
+        "year": "2007",
+        "applied": 130
+      },
+      {
+        "granted": 47,
+        "published": 285,
+        "year": "2008",
+        "applied": 238
+      },
+      {
+        "granted": 74,
+        "published": 386,
+        "year": "2009",
+        "applied": 312
+      },
+      {
+        "granted": 99,
+        "published": 612,
+        "year": "2010",
+        "applied": 513
+      },
+      {
+        "granted": 137,
+        "published": 629,
+        "year": "2011",
+        "applied": 492
+      },
+      {
+        "granted": 246,
+        "published": 1431,
+        "year": "2012",
+        "applied": 1185
+      },
+      {
+        "granted": 379,
+        "published": 1506,
+        "year": "2013",
+        "applied": 1127
+      },
+      {
+        "granted": 448,
+        "published": 1226,
+        "year": "2014",
+        "applied": 778
+      },
+      {
+        "granted": 559,
+        "published": 1440,
+        "year": "2015",
+        "applied": 881
+      },
+      {
+        "granted": 451,
+        "published": 1529,
+        "year": "2016",
+        "applied": 1078
+      },
+      {
+        "granted": 571,
+        "published": 1824,
+        "year": "2017",
+        "applied": 1253
+      },
+      {
+        "granted": 614,
+        "published": 1991,
+        "year": "2018",
+        "applied": 1377
+      },
+      {
+        "granted": 199,
+        "published": 590,
+        "year": "2019",
+        "applied": 391
+      }
+    ]
+  },
+  {
+    "technology": "Carbon nanotubes",
+    "current_rank": 2511,
+    "ipc_codes": [
+      {
+        "ipc_code": "H01L",
+        "percentage": 16.1,
+        "patent_count": 33736
+      },
+      {
+        "ipc_code": "H01M",
+        "percentage": 11.65,
+        "patent_count": 24414
+      },
+      {
+        "ipc_code": "C01B",
+        "percentage": 10.24,
+        "patent_count": 21461
+      },
+      {
+        "ipc_code": "C08L",
+        "percentage": 6.78,
+        "patent_count": 14217
+      },
+      {
+        "ipc_code": "C08K",
+        "percentage": 6.6,
+        "patent_count": 13821
+      },
+      {
+        "ipc_code": "G01N",
+        "percentage": 6.47,
+        "patent_count": 13558
+      },
+      {
+        "ipc_code": "B82Y",
+        "percentage": 5.69,
+        "patent_count": 11934
+      },
+      {
+        "ipc_code": "B01J",
+        "percentage": 5.16,
+        "patent_count": 10820
+      },
+      {
+        "ipc_code": "H01B",
+        "percentage": 4.7,
+        "patent_count": 9854
+      },
+      {
+        "ipc_code": "B32B",
+        "percentage": 4.42,
+        "patent_count": 9268
+      },
+      {
+        "ipc_code": "H01J",
+        "percentage": 4.32,
+        "patent_count": 9063
+      },
+      {
+        "ipc_code": "A61K",
+        "percentage": 3.78,
+        "patent_count": 7918
+      },
+      {
+        "ipc_code": "B82B",
+        "percentage": 3.72,
+        "patent_count": 7800
+      },
+      {
+        "ipc_code": "C08J",
+        "percentage": 3.72,
+        "patent_count": 7799
+      },
+      {
+        "ipc_code": "G06F",
+        "percentage": 3.68,
+        "patent_count": 7719
+      },
+      {
+        "ipc_code": "C08G",
+        "percentage": 3.01,
+        "patent_count": 6312
+      },
+      {
+        "ipc_code": "H01G",
+        "percentage": 2.91,
+        "patent_count": 6104
+      },
+      {
+        "ipc_code": "B29C",
+        "percentage": 2.77,
+        "patent_count": 5799
+      },
+      {
+        "ipc_code": "D01F",
+        "percentage": 2.62,
+        "patent_count": 5490
+      },
+      {
+        "ipc_code": "C09D",
+        "percentage": 2.5,
+        "patent_count": 5232
+      }
+    ],
+    "total_patents": 209566,
+    "patents_by_year": [
+      {
+        "granted": 13,
+        "published": 63,
+        "year": "1998",
+        "applied": 50
+      },
+      {
+        "granted": 30,
+        "published": 136,
+        "year": "1999",
+        "applied": 106
+      },
+      {
+        "granted": 62,
+        "published": 256,
+        "year": "2000",
+        "applied": 194
+      },
+      {
+        "granted": 186,
+        "published": 662,
+        "year": "2001",
+        "applied": 476
+      },
+      {
+        "granted": 204,
+        "published": 1147,
+        "year": "2002",
+        "applied": 943
+      },
+      {
+        "granted": 307,
+        "published": 2133,
+        "year": "2003",
+        "applied": 1826
+      },
+      {
+        "granted": 513,
+        "published": 3368,
+        "year": "2004",
+        "applied": 2855
+      },
+      {
+        "granted": 661,
+        "published": 4739,
+        "year": "2005",
+        "applied": 4078
+      },
+      {
+        "granted": 1054,
+        "published": 6044,
+        "year": "2006",
+        "applied": 4990
+      },
+      {
+        "granted": 1389,
+        "published": 7561,
+        "year": "2007",
+        "applied": 6172
+      },
+      {
+        "granted": 1583,
+        "published": 8919,
+        "year": "2008",
+        "applied": 7336
+      },
+      {
+        "granted": 1875,
+        "published": 9934,
+        "year": "2009",
+        "applied": 8059
+      },
+      {
+        "granted": 2901,
+        "published": 11917,
+        "year": "2010",
+        "applied": 9016
+      },
+      {
+        "granted": 3444,
+        "published": 12870,
+        "year": "2011",
+        "applied": 9426
+      },
+      {
+        "granted": 4071,
+        "published": 14309,
+        "year": "2012",
+        "applied": 10238
+      },
+      {
+        "granted": 5040,
+        "published": 16078,
+        "year": "2013",
+        "applied": 11038
+      },
+      {
+        "granted": 5464,
+        "published": 17539,
+        "year": "2014",
+        "applied": 12075
+      },
+      {
+        "granted": 5640,
+        "published": 18592,
+        "year": "2015",
+        "applied": 12952
+      },
+      {
+        "granted": 6533,
+        "published": 20959,
+        "year": "2016",
+        "applied": 14426
+      },
+      {
+        "granted": 7379,
+        "published": 22727,
+        "year": "2017",
+        "applied": 15348
+      },
+      {
+        "granted": 7620,
+        "published": 23353,
+        "year": "2018",
+        "applied": 15733
+      },
+      {
+        "granted": 2243,
+        "published": 6260,
+        "year": "2019",
+        "applied": 4017
+      }
+    ]
+  },
+  {
+    "technology": "Double-walled carbon nanotubes",
+    "current_rank": 2661,
+    "ipc_codes": [
+      {
+        "ipc_code": "C01B",
+        "percentage": 20.78,
+        "patent_count": 1075
+      },
+      {
+        "ipc_code": "B82Y",
+        "percentage": 17.38,
+        "patent_count": 899
+      },
+      {
+        "ipc_code": "H01L",
+        "percentage": 11.42,
+        "patent_count": 591
+      },
+      {
+        "ipc_code": "H01B",
+        "percentage": 10.65,
+        "patent_count": 551
+      },
+      {
+        "ipc_code": "H01M",
+        "percentage": 10.48,
+        "patent_count": 542
+      },
+      {
+        "ipc_code": "C08K",
+        "percentage": 10.42,
+        "patent_count": 539
+      },
+      {
+        "ipc_code": "B32B",
+        "percentage": 8.19,
+        "patent_count": 424
+      },
+      {
+        "ipc_code": "D01F",
+        "percentage": 7.13,
+        "patent_count": 369
+      },
+      {
+        "ipc_code": "C08L",
+        "percentage": 6.18,
+        "patent_count": 320
+      },
+      {
+        "ipc_code": "B01J",
+        "percentage": 5.93,
+        "patent_count": 307
+      },
+      {
+        "ipc_code": "B82B",
+        "percentage": 5.89,
+        "patent_count": 305
+      },
+      {
+        "ipc_code": "B05D",
+        "percentage": 5.7,
+        "patent_count": 295
+      },
+      {
+        "ipc_code": "H01J",
+        "percentage": 5.16,
+        "patent_count": 267
+      },
+      {
+        "ipc_code": "C09D",
+        "percentage": 5.08,
+        "patent_count": 263
+      },
+      {
+        "ipc_code": "C08J",
+        "percentage": 5.06,
+        "patent_count": 262
+      },
+      {
+        "ipc_code": "G01N",
+        "percentage": 4.33,
+        "patent_count": 224
+      },
+      {
+        "ipc_code": "H01G",
+        "percentage": 3.87,
+        "patent_count": 200
+      },
+      {
+        "ipc_code": "C23C",
+        "percentage": 3.32,
+        "patent_count": 172
+      },
+      {
+        "ipc_code": "C09K",
+        "percentage": 3.29,
+        "patent_count": 170
+      },
+      {
+        "ipc_code": "G06F",
+        "percentage": 3.19,
+        "patent_count": 165
+      }
+    ],
+    "total_patents": 5174,
+    "patents_by_year": [
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "1998",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "1999",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 1,
+        "year": "2000",
+        "applied": 1
+      },
+      {
+        "granted": 0,
+        "published": 5,
+        "year": "2001",
+        "applied": 5
+      },
+      {
+        "granted": 0,
+        "published": 8,
+        "year": "2002",
+        "applied": 8
+      },
+      {
+        "granted": 0,
+        "published": 14,
+        "year": "2003",
+        "applied": 14
+      },
+      {
+        "granted": 3,
+        "published": 44,
+        "year": "2004",
+        "applied": 41
+      },
+      {
+        "granted": 7,
+        "published": 69,
+        "year": "2005",
+        "applied": 62
+      },
+      {
+        "granted": 16,
+        "published": 109,
+        "year": "2006",
+        "applied": 93
+      },
+      {
+        "granted": 7,
+        "published": 115,
+        "year": "2007",
+        "applied": 108
+      },
+      {
+        "granted": 23,
+        "published": 199,
+        "year": "2008",
+        "applied": 176
+      },
+      {
+        "granted": 23,
+        "published": 300,
+        "year": "2009",
+        "applied": 277
+      },
+      {
+        "granted": 59,
+        "published": 371,
+        "year": "2010",
+        "applied": 312
+      },
+      {
+        "granted": 100,
+        "published": 454,
+        "year": "2011",
+        "applied": 354
+      },
+      {
+        "granted": 174,
+        "published": 622,
+        "year": "2012",
+        "applied": 448
+      },
+      {
+        "granted": 170,
+        "published": 528,
+        "year": "2013",
+        "applied": 358
+      },
+      {
+        "granted": 184,
+        "published": 508,
+        "year": "2014",
+        "applied": 324
+      },
+      {
+        "granted": 177,
+        "published": 486,
+        "year": "2015",
+        "applied": 309
+      },
+      {
+        "granted": 174,
+        "published": 422,
+        "year": "2016",
+        "applied": 248
+      },
+      {
+        "granted": 186,
+        "published": 436,
+        "year": "2017",
+        "applied": 250
+      },
+      {
+        "granted": 159,
+        "published": 376,
+        "year": "2018",
+        "applied": 217
+      },
+      {
+        "granted": 33,
+        "published": 107,
+        "year": "2019",
+        "applied": 74
+      }
+    ]
+  },
+  {
+    "technology": "Iron-chromium flow batteries",
+    "current_rank": 781,
+    "ipc_codes": [
+      {
+        "ipc_code": "H01M",
+        "percentage": 95.07,
+        "patent_count": 444
+      },
+      {
+        "ipc_code": "C08J",
+        "percentage": 5.35,
+        "patent_count": 25
+      },
+      {
+        "ipc_code": "H01B",
+        "percentage": 3.64,
+        "patent_count": 17
+      },
+      {
+        "ipc_code": "C01G",
+        "percentage": 3.43,
+        "patent_count": 16
+      },
+      {
+        "ipc_code": "C08L",
+        "percentage": 3.21,
+        "patent_count": 15
+      },
+      {
+        "ipc_code": "C08F",
+        "percentage": 2.57,
+        "patent_count": 12
+      },
+      {
+        "ipc_code": "H02J",
+        "percentage": 2.36,
+        "patent_count": 11
+      },
+      {
+        "ipc_code": "C08G",
+        "percentage": 1.71,
+        "patent_count": 8
+      },
+      {
+        "ipc_code": "H01L",
+        "percentage": 1.71,
+        "patent_count": 8
+      },
+      {
+        "ipc_code": "B32B",
+        "percentage": 1.5,
+        "patent_count": 7
+      },
+      {
+        "ipc_code": "B05D",
+        "percentage": 1.07,
+        "patent_count": 5
+      },
+      {
+        "ipc_code": "C22B",
+        "percentage": 1.07,
+        "patent_count": 5
+      },
+      {
+        "ipc_code": "H05K",
+        "percentage": 1.07,
+        "patent_count": 5
+      },
+      {
+        "ipc_code": "F28D",
+        "percentage": 0.86,
+        "patent_count": 4
+      },
+      {
+        "ipc_code": "G01R",
+        "percentage": 0.86,
+        "patent_count": 4
+      },
+      {
+        "ipc_code": "F01K",
+        "percentage": 0.86,
+        "patent_count": 4
+      },
+      {
+        "ipc_code": "C09D",
+        "percentage": 0.64,
+        "patent_count": 3
+      },
+      {
+        "ipc_code": "C25B",
+        "percentage": 0.64,
+        "patent_count": 3
+      },
+      {
+        "ipc_code": "C01B",
+        "percentage": 0.64,
+        "patent_count": 3
+      },
+      {
+        "ipc_code": "H01G",
+        "percentage": 0.64,
+        "patent_count": 3
+      }
+    ],
+    "total_patents": 467,
+    "patents_by_year": [
+      {
+        "granted": 3,
+        "published": 4,
+        "year": "1998",
+        "applied": 1
+      },
+      {
+        "granted": 1,
+        "published": 1,
+        "year": "1999",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2000",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 3,
+        "year": "2001",
+        "applied": 3
+      },
+      {
+        "granted": 1,
+        "published": 5,
+        "year": "2002",
+        "applied": 4
+      },
+      {
+        "granted": 2,
+        "published": 2,
+        "year": "2003",
+        "applied": 0
+      },
+      {
+        "granted": 3,
+        "published": 4,
+        "year": "2004",
+        "applied": 1
+      },
+      {
+        "granted": 3,
+        "published": 4,
+        "year": "2005",
+        "applied": 1
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2006",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 1,
+        "year": "2007",
+        "applied": 1
+      },
+      {
+        "granted": 1,
+        "published": 1,
+        "year": "2008",
+        "applied": 0
+      },
+      {
+        "granted": 2,
+        "published": 2,
+        "year": "2009",
+        "applied": 0
+      },
+      {
+        "granted": 1,
+        "published": 5,
+        "year": "2010",
+        "applied": 4
+      },
+      {
+        "granted": 1,
+        "published": 27,
+        "year": "2011",
+        "applied": 26
+      },
+      {
+        "granted": 4,
+        "published": 20,
+        "year": "2012",
+        "applied": 16
+      },
+      {
+        "granted": 5,
+        "published": 34,
+        "year": "2013",
+        "applied": 29
+      },
+      {
+        "granted": 10,
+        "published": 68,
+        "year": "2014",
+        "applied": 58
+      },
+      {
+        "granted": 11,
+        "published": 60,
+        "year": "2015",
+        "applied": 49
+      },
+      {
+        "granted": 21,
+        "published": 56,
+        "year": "2016",
+        "applied": 35
+      },
+      {
+        "granted": 20,
+        "published": 50,
+        "year": "2017",
+        "applied": 30
+      },
+      {
+        "granted": 26,
+        "published": 89,
+        "year": "2018",
+        "applied": 63
+      },
+      {
+        "granted": 11,
+        "published": 31,
+        "year": "2019",
+        "applied": 20
+      }
+    ]
+  },
+  {
+    "technology": "Vanadium flow batteries",
+    "current_rank": 1613,
+    "ipc_codes": [
+      {
+        "ipc_code": "H01M",
+        "percentage": 86.7,
+        "patent_count": 3338
+      },
+      {
+        "ipc_code": "H02J",
+        "percentage": 6.42,
+        "patent_count": 247
+      },
+      {
+        "ipc_code": "C08J",
+        "percentage": 3.27,
+        "patent_count": 126
+      },
+      {
+        "ipc_code": "C01G",
+        "percentage": 3.14,
+        "patent_count": 121
+      },
+      {
+        "ipc_code": "B01D",
+        "percentage": 2.21,
+        "patent_count": 85
+      },
+      {
+        "ipc_code": "C08G",
+        "percentage": 2.08,
+        "patent_count": 80
+      },
+      {
+        "ipc_code": "C25B",
+        "percentage": 2.03,
+        "patent_count": 78
+      },
+      {
+        "ipc_code": "C08L",
+        "percentage": 1.9,
+        "patent_count": 73
+      },
+      {
+        "ipc_code": "C01B",
+        "percentage": 1.84,
+        "patent_count": 71
+      },
+      {
+        "ipc_code": "B01J",
+        "percentage": 1.79,
+        "patent_count": 69
+      },
+      {
+        "ipc_code": "G01R",
+        "percentage": 1.66,
+        "patent_count": 64
+      },
+      {
+        "ipc_code": "H05B",
+        "percentage": 1.35,
+        "patent_count": 52
+      },
+      {
+        "ipc_code": "B60L",
+        "percentage": 1.32,
+        "patent_count": 51
+      },
+      {
+        "ipc_code": "H01G",
+        "percentage": 1.22,
+        "patent_count": 47
+      },
+      {
+        "ipc_code": "G01N",
+        "percentage": 1.17,
+        "patent_count": 45
+      },
+      {
+        "ipc_code": "H01B",
+        "percentage": 1.06,
+        "patent_count": 41
+      },
+      {
+        "ipc_code": "H02M",
+        "percentage": 0.91,
+        "patent_count": 35
+      },
+      {
+        "ipc_code": "C08F",
+        "percentage": 0.83,
+        "patent_count": 32
+      },
+      {
+        "ipc_code": "F03D",
+        "percentage": 0.73,
+        "patent_count": 28
+      },
+      {
+        "ipc_code": "B29C",
+        "percentage": 0.73,
+        "patent_count": 28
+      }
+    ],
+    "total_patents": 3850,
+    "patents_by_year": [
+      {
+        "granted": 4,
+        "published": 7,
+        "year": "1998",
+        "applied": 3
+      },
+      {
+        "granted": 2,
+        "published": 6,
+        "year": "1999",
+        "applied": 4
+      },
+      {
+        "granted": 0,
+        "published": 4,
+        "year": "2000",
+        "applied": 4
+      },
+      {
+        "granted": 2,
+        "published": 21,
+        "year": "2001",
+        "applied": 19
+      },
+      {
+        "granted": 6,
+        "published": 27,
+        "year": "2002",
+        "applied": 21
+      },
+      {
+        "granted": 9,
+        "published": 41,
+        "year": "2003",
+        "applied": 32
+      },
+      {
+        "granted": 9,
+        "published": 36,
+        "year": "2004",
+        "applied": 27
+      },
+      {
+        "granted": 10,
+        "published": 30,
+        "year": "2005",
+        "applied": 20
+      },
+      {
+        "granted": 5,
+        "published": 20,
+        "year": "2006",
+        "applied": 15
+      },
+      {
+        "granted": 17,
+        "published": 27,
+        "year": "2007",
+        "applied": 10
+      },
+      {
+        "granted": 12,
+        "published": 45,
+        "year": "2008",
+        "applied": 33
+      },
+      {
+        "granted": 13,
+        "published": 54,
+        "year": "2009",
+        "applied": 41
+      },
+      {
+        "granted": 19,
+        "published": 81,
+        "year": "2010",
+        "applied": 62
+      },
+      {
+        "granted": 30,
+        "published": 132,
+        "year": "2011",
+        "applied": 102
+      },
+      {
+        "granted": 59,
+        "published": 228,
+        "year": "2012",
+        "applied": 169
+      },
+      {
+        "granted": 52,
+        "published": 257,
+        "year": "2013",
+        "applied": 205
+      },
+      {
+        "granted": 85,
+        "published": 381,
+        "year": "2014",
+        "applied": 296
+      },
+      {
+        "granted": 93,
+        "published": 445,
+        "year": "2015",
+        "applied": 352
+      },
+      {
+        "granted": 112,
+        "published": 507,
+        "year": "2016",
+        "applied": 395
+      },
+      {
+        "granted": 195,
+        "published": 634,
+        "year": "2017",
+        "applied": 439
+      },
+      {
+        "granted": 207,
+        "published": 704,
+        "year": "2018",
+        "applied": 497
+      },
+      {
+        "granted": 61,
+        "published": 163,
+        "year": "2019",
+        "applied": 102
+      }
+    ]
+  },
+  {
+    "technology": "Zinc-iron flow batteries",
+    "current_rank": 492,
+    "ipc_codes": [
+      {
+        "ipc_code": "H01M",
+        "percentage": 90.14,
+        "patent_count": 64
+      },
+      {
+        "ipc_code": "H02J",
+        "percentage": 21.13,
+        "patent_count": 15
+      },
+      {
+        "ipc_code": "H05K",
+        "percentage": 7.04,
+        "patent_count": 5
+      },
+      {
+        "ipc_code": "B60L",
+        "percentage": 7.04,
+        "patent_count": 5
+      },
+      {
+        "ipc_code": "H01G",
+        "percentage": 5.63,
+        "patent_count": 4
+      },
+      {
+        "ipc_code": "G06F",
+        "percentage": 4.23,
+        "patent_count": 3
+      },
+      {
+        "ipc_code": "C02F",
+        "percentage": 4.23,
+        "patent_count": 3
+      },
+      {
+        "ipc_code": "H02P",
+        "percentage": 2.82,
+        "patent_count": 2
+      },
+      {
+        "ipc_code": "G05B",
+        "percentage": 1.41,
+        "patent_count": 1
+      },
+      {
+        "ipc_code": "G01R",
+        "percentage": 1.41,
+        "patent_count": 1
+      },
+      {
+        "ipc_code": "C08K",
+        "percentage": 1.41,
+        "patent_count": 1
+      }
+    ],
+    "total_patents": 71,
+    "patents_by_year": [
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "1998",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "1999",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2000",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2001",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2002",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2003",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2004",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2005",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2006",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 0,
+        "year": "2007",
+        "applied": 0
+      },
+      {
+        "granted": 0,
+        "published": 2,
+        "year": "2008",
+        "applied": 2
+      },
+      {
+        "granted": 0,
+        "published": 3,
+        "year": "2009",
+        "applied": 3
+      },
+      {
+        "granted": 0,
+        "published": 2,
+        "year": "2010",
+        "applied": 2
+      },
+      {
+        "granted": 1,
+        "published": 1,
+        "year": "2011",
+        "applied": 0
+      },
+      {
+        "granted": 2,
+        "published": 2,
+        "year": "2012",
+        "applied": 0
+      },
+      {
+        "granted": 1,
+        "published": 1,
+        "year": "2013",
+        "applied": 0
+      },
+      {
+        "granted": 1,
+        "published": 13,
+        "year": "2014",
+        "applied": 12
+      },
+      {
+        "granted": 0,
+        "published": 3,
+        "year": "2015",
+        "applied": 3
+      },
+      {
+        "granted": 0,
+        "published": 7,
+        "year": "2016",
+        "applied": 7
+      },
+      {
+        "granted": 5,
+        "published": 14,
+        "year": "2017",
+        "applied": 9
+      },
+      {
+        "granted": 6,
+        "published": 21,
+        "year": "2018",
+        "applied": 15
+      },
+      {
+        "granted": 0,
+        "published": 2,
+        "year": "2019",
+        "applied": 2
+      }
+    ]
+  }
+]
