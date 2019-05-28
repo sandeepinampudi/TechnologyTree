@@ -1,83 +1,12 @@
 Level 0,Level 1,Level 2,Level 3
-STEM,Machine learning and artificial intelligence (AI),Deep learning
-STEM,Low-power wide-area networks (LPWAN)
-STEM,Cyber-security for IoT,Blockchain
-STEM,Cyber-security for IoT,Cryptocurrencies
-STEM,Radar,Lidar
-STEM,Quantum computing
-STEM,Radar,Connected cars
-STEM,Cyber-security for IoT,Edge computing
-STEM,Machine learning and artificial intelligence (AI),Natural language processing (NLP),Chatbots and virtual assistants
-STEM,Radar,Heads-up displays (HUDs)
-STEM,Solid-state batteries
-STEM,Radar,"Car sharing, ride sharing, and mobility-as-a-service"
-STEM,Electrocatalysts,2D materials
-STEM,Radar,Vehicle-to-vehicle (V2V),Vehicle-to-infrastructure (V2I)
-STEM,Cyber-security for IoT,Serverless computing
-STEM,MicroLED
-STEM,Cyber-security for IoT,Digital twins
-STEM,Photopolymer resins
-STEM,Radar,Fleet management
-STEM,3D printing,Digital light processing
-STEM,Battery fast-charging,Zinc-air batteries
-STEM,Farm management
-STEM,Nickel cobalt aluminum cathodes (NCA cathodes)
-STEM,Precision medicine,Materials informatics
-STEM,Haber-Bosch catalysts
-STEM,Food delivery,Personalized nutrition
-STEM,Machine and computer vision,Simultaneous localization and mapping (SLAM)
-STEM,Machine and computer vision,Drone thermography
-STEM,Silica aerogels
-STEM,Polyurethane adhesives
-STEM,Soft robotics
-STEM,Machine and computer vision,Synthetic data
-STEM,Cyber-security for IoT,Last-mile transportation
-STEM,Quantum sensors
-STEM,Machine and computer vision,Generative design
-STEM,Machine learning and artificial intelligence (AI),Natural language processing (NLP),Natural text generation and natural language generation (NLG)
-STEM,Machine learning and artificial intelligence (AI),Residential fuel cells
-STEM,Cyber-security for IoT,Electronic textiles
-STEM,Machine learning and artificial intelligence (AI),Neuromorphic computing
-STEM,Nickel-zinc batteries
-STEM,Biostimulants,Genome editing
-STEM,Lithium-sulfur batteries
-STEM,Advanced harvesting
-STEM,Tethered wind
-STEM,Radar,Self-driving cars,Sensor fusion
-STEM,Marine fuels
-STEM,Residential energy storage,Energy trading platforms
-STEM,Supply chain traceability
-STEM,Hard carbon battery anodes
-STEM,Water storage
-STEM,Machine learning and artificial intelligence (AI),Augmented reality (AR)
-STEM,Residential energy storage,DC microgrids
-STEM,Biostimulants,Nitrogen fixation
-STEM,Cyber-security for IoT,Smart lighting
-STEM,Cyber-security for IoT,Route optimization
-STEM,Cyber-security for IoT,Li-Fi
-STEM,Carbon fiber recycling,Recycled polyethylene terephthalate
-STEM,Multiwavelength optical sensors
-STEM,Machine learning and artificial intelligence (AI),Differential privacy
-STEM,Radar,Self-driving cars,Path and motion planning
-STEM,5G networks (5G),Ultra-wideband tags and readers
-STEM,Machine learning and artificial intelligence (AI),Infrastructure as a service (IaaS)
-STEM,Machine learning and artificial intelligence (AI),Warehouse robotics
-STEM,Anti-fouling materials and coatings
-STEM,Machine learning and artificial intelligence (AI),Natural language processing (NLP),Affective computing
-STEM,Antenna arrays
-STEM,Machine learning and artificial intelligence (AI),Robotic process automation (RPA)
-STEM,Grain storage
-STEM,Metalenses
-STEM,"Vertical, indoor, and urban farming"
-STEM,Holograms and volumetric displays
-STEM,Molten salt reactors (MSR),Small modular nuclear reactors
-STEM,Superhydrophilic materials and coatings
-STEM,Peer-to-peer energy trading
-STEM,Lithium metal anodes,Protected lithium metal anodes
-STEM,Liquid-infused coatings and surfaces
-STEM,Machine learning and artificial intelligence (AI),Cyber-security for power grids
-STEM,Spider silk
-STEM,Carbon fiber recycling,Nanocellulose
-STEM,Cyber-security for IoT,Platforms for IoT
-STEM,Reinforced concrete
-STEM,Machine learning and artificial intelligence (AI),Decentralized data
+STEM,Metal-organic frameworks
+STEM,Mechanical metamaterials
+STEM,Graphene,Graphene oxide,Graphene nanoplatelets
+STEM,Acoustic metamaterials
+STEM,Metamaterials,Optical metamaterials
+STEM,Carbon nanotubes,Single-walled carbon nanotubes
+STEM,Graphene,Graphene films
+STEM,Carbon nanotubes,Multi-walled carbon nanotubes,Double-walled carbon nanotubes
+STEM,Flow batteries,Iron-chromium flow batteries
+STEM,Flow batteries,Vanadium flow batteries
+STEM,Energy storage,Zinc-iron flow batteries

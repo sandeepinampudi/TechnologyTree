@@ -3,18 +3,16 @@ import networkx as nx
 import matplotlib.pyplot as plt
 from definitions import TreeMaker
 from GraphPlots import branchplot
-<<<<<<< HEAD
+
 import csv
 
 # load the data
 #input_file=open('validation_techs.json', 'r')
 input_file=open('top_100_techs.json', 'r')
-=======
 
 # load the data
 input_file=open('validation_techs.json', 'r')
 #input_file=open('top_100_techs.json', 'r')
->>>>>>> a44bcafb3bf80f1683de00f29b950762b1323208
 
 data00=json.load(input_file)
 data=dict()
